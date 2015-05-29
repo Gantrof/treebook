@@ -3,3 +3,9 @@ matthew:
   last_name: "Pierce"
   email: "mrapierce@gmail.com"
   profile_name: "mpierce"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@gmail.com"
+  profile_name: "jimhoskins"
